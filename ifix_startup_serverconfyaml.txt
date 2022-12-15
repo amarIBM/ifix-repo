@@ -1,0 +1,5 @@
+StartupScripts:
+  FirstScript:
+    command: '/home/aceuser/generic/ifix_container.sh'
+    directErrorToCommandOutput: false
+    includeCommandOutputInLogs: true
